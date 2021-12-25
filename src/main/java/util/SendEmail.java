@@ -18,7 +18,7 @@ public class SendEmail {
         MimeMessage msg = new MimeMessage(session);
         msg.setFrom(new InternetAddress(MallProp.get("mail.username")));
         msg.setRecipient(Message.RecipientType.TO, new InternetAddress(to));
-        msg.setSubject("头头商城 发货提醒");
+        msg.setSubject("Steven的购物小屋 发货提醒");
         msg.setText(text, "UTF-8");
         msg.setSentDate(new Date());
         msg.saveChanges();

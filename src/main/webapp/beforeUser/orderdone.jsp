@@ -31,7 +31,7 @@
 		<li class="breadcrumb-item active" aria-current="page">生成订单</li>
 	</ol>
 </nav>
-<h2 style="text-align:center; height:30px; line-height:30px;">感谢您在头头商城购物！您的订单已提交成功，
+<h2 style="text-align:center; height:30px; line-height:30px;">感谢您在Steven的购物小屋购物！您的订单已提交成功，
 	您的订单号为: <span class="text-danger">${ordersn}</span>
 </h2>
 <button class="btn btn-primary" onclick="pay('${ordersn}')">付款</button>

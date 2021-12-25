@@ -17,13 +17,13 @@ String loginPath = basePath + "admin/login.jsp";
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
         integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
-    <title>头头商城后台管理</title>
+    <title>Steven的购物小屋后台管理</title>
 </head>
 
 <body>
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="<%=loginPath%>">头头商城后台管理</a>
+            <a class="navbar-brand" href="<%=loginPath%>">Steven的购物小屋后台管理</a>
 
             <%-- 已登录管理员 --%>
             <c:if test="${sessionScope.admin != null }">

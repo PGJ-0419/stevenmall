@@ -7,8 +7,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 %>
 <footer class="footer mt-auto py-3">
 	<div class="container">
-		<span class="text-muted">©2020 头头世界</span>
-		<a href="http://beian.miit.gov.cn/" target="_blank">赣ICP备20007667号-1</a>
+		<span class="text-muted">designed by pgj</span>
 	</div>
 </footer>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"

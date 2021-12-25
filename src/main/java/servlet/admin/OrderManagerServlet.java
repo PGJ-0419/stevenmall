@@ -50,7 +50,7 @@ public class OrderManagerServlet extends HttpServlet {
 			String ordersn = request.getParameter("ordersn");
 			String to = request.getParameter("email");
 			try {
-				SendEmail.send(to, "您在头头商城购买的商品已经发货啦，订单号为：" + ordersn + "。");
+				SendEmail.send(to, "您在Steven的购物小屋购买的商品已经发货啦，订单号为：" + ordersn + "。");
 				out.println("ok");
 				out.flush();
 				return ;

@@ -43,7 +43,7 @@ public class BaseDao {
 					System.out.println("dbname: " + dbname);
 					String user = MallProp.get("database.user");
 					String password = MallProp.get("database.password");
-					String url = "jdbc:mysql://localhost:3306/"+dbname+"?characterEncoding=utf-8&useSSL=false";
+					String url = "jdbc:mysql://localhost:3306/"+dbname+"?characterEncoding=utf-8&useSSL=false&autoReconnect=true";
 					log.info("sql connect url: " + url);
 					con = DriverManager.getConnection(url, user, password);
 					list.add(con);
