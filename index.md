@@ -90,79 +90,79 @@ UserServlet包括。获取产品细节 `BeforeDetailServlet`, 删除购物车 `D
 
 ## 功能测试
 
-系统主页访问。
+系统主页访问：
 
-![](image/README copy/1640421909488.png)
+![1640421909488](image/README/1640421909488.png)
 
-注册功能。
+注册功能：
 
-![image-20211225164630187](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164630187.png)
+![image-20211225164630187](image/README/image-20211225164630187.png)
 
-登录界面。
+登录界面：
 
-![image-20211225164648338](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164648338.png)
+![image-20211225164648338](image/README/image-20211225164648338.png)
 
 登录成功的屏幕，按类别搜索产品：
 
-![image-20211225164717031](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164717031.png)
+![image-20211225164717031](image/README/image-20211225164717031.png)
 
-搜索产品。
+搜索产品：
 
-![image-20211225164801513](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164801513.png)
+![image-20211225164801513](image/README/image-20211225164801513.png)
 
 产品详细信息屏幕。
 
-![image-20211225164821086](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164821086.png)
+![image-20211225164821086](image/README/image-20211225164821086.png)
 
-购物车界面。
+购物车界面：
 
-![image-20211225164843211](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164843211.png)
+![image-20211225164843211](image/README/image-20211225164843211.png)
 
 结账界面。
 
-![image-20211225164857330](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164857330.png)
+![image-20211225164857330](image/README/image-20211225164857330.png)
 
-订单提交界面。
+订单提交界面：
 
-![image-20211225164908637](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164908637.png)
+![image-20211225164908637](image/README/image-20211225164908637.png)
 
 用户中心检查订单：
 
-![image-20211225164934299](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164934299.png)
+![image-20211225164934299](image/README/image-20211225164934299.png)
 
 后台登录界面。
 
-![image-20211225164944011](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225164944011.png)
+![image-20211225164944011](image/README/image-20211225164944011.png)
 
 后台产品管理： !
 
-![image-20211225165006104](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225165006104.png)
+![image-20211225165006104](image/README/image-20211225165006104.png)
 
-添加商品接口： !
+添加商品接口： 
 
-![image-20211225165024579](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225165024579.png)
+![image-20211225165024579](image/README/image-20211225165024579.png)
 
-类型管理。
+类型管理：
 
-![image-20211225165033926](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225165033926.png)
+![image-20211225165033926](image/README/image-20211225165033926.png)
 
-用户管理。
+用户管理：
 
-![image-20211225165044462](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225165044462.png)
+![image-20211225165044462](image/README/image-20211225165044462.png)
 
-订单管理。
+订单管理：
 
-![image-20211225165133540](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225165133540.png)
+![image-20211225165133540](image/README/image-20211225165133540.png)
 
-发送通知邮件。
+发送通知邮件：
 
-![image-20211225165214797](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225165214797.png)
+![image-20211225165214797](image/README/image-20211225165214797.png)
 
-邮件接收。
+邮件接收：
 
-![image-20211225165225637](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225165225637.png)
+![image-20211225165225637](image/README/image-20211225165225637.png)
 
-![image-20211225165257082](E:\大三\网络软件开发\sample\mall-main\mall-main\image\README copy\image-20211225165257082.png)
+![image-20211225165257082](image/README/image-20211225165257082.png)
 
 经过详细测试，本系统基本功能完善，页面美观实用，交互体验良好。
 
